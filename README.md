@@ -1,0 +1,1 @@
+# Static-website-on-azure-cloud
